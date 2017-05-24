@@ -2,9 +2,7 @@
 Excel快速生成库</br>
 
 # Android Studio 引用库
-![image](https://github.com/SeachForLife/ExcelUtils/Pictures/lib.PNG)</br>
-
-
+![image](https://github.com/SeachForLife/ExcelUtils/raw/master/Pictures/lib.PNG)</br>
 # 示例
 ExcelUtils.getInstance()</br>
                 .setSHEET_NAME("测试Sheet")//设置表格名称 </br>
