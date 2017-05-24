@@ -137,7 +137,7 @@ public class ExcelUtils<T> implements Serializable {
             String[] single_obj=new String[field.length];
             for (int m=0;m<field.length;m++) {
                 String type=field[m].getGenericType().toString();
-                System.out.println("-----------"+type);
+//                System.out.println("-----------"+type);
                 String fieldName=field[m].getName()+"";
                 title_lsit[m]=fieldName;
                 String getMethodName;
