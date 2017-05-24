@@ -2,7 +2,7 @@
 Excel快速生成库</br>
 
 # Android Studio 引用库
-![image](https://github.com/SeachForLife/ExcelUtils/Pictures/lib.PNG )</br>
+![image](https://github.com/SeachForLife/ExcelUtils/Pictures/lib.PNG)</br>
 
 
 # 示例
