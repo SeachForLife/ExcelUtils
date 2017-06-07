@@ -1,3 +1,4 @@
+
 # ExcelUtils
 Excel快速生成库</br>
 
@@ -17,6 +18,9 @@ Excel快速生成库</br>
 
 
 ### 示例
+
+    可以直接赋予一个对象进去
+    List<User> content_list_user=new ArrayList<>();
     ExcelUtils.getInstance()
                     .setSHEET_NAME("测试Sheet")//设置表格名称 
                     .setFONT_COLOR(Colour.BLUE)//设置标题字体颜色 
